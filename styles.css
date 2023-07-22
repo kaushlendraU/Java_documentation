@@ -1,8 +1,7 @@
-@media{
-  code{
-    color: #1b1b32;
-} 
-} 
+@media screen and (max-width: 1000px){
+  section {
+    padding-top: 5rem;
+  }
 
 *{
   margin: 0;
