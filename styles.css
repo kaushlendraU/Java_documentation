@@ -33,10 +33,14 @@ html {
 } 
 
 li > a {
-  font-size: 1rem;
+  font-size: 20px;
   text-decoration: none;
   color: black;
   padding: 20px;
+} 
+
+section {
+  margin-top: 3rem;
 } 
 
 body {
