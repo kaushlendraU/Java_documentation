@@ -1,4 +1,4 @@
-@media screen and (max-width: 1000px){
+@media screen and (mix-width: 576px){
   section {
     padding-top: 5rem;
   }
