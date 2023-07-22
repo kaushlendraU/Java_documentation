@@ -22,7 +22,7 @@ html{
 #navbar{
   width: 100%;
   line-height: 2.4;
-  height: 420px;
+  height: 600px;
 } 
 
 
@@ -44,7 +44,7 @@ li > a{
 
 body{
   width: 100%;
-  height: auto; 
+  height: auto;
 } 
 
 .sub{
