@@ -22,7 +22,8 @@ html{
 #navbar{
   width: 100%;
   line-height: 2.4;
-  height: 600px;
+  height: 100%;
+  margin-top: 3rem;
 } 
 
 
